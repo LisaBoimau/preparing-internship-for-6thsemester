@@ -1,0 +1,18 @@
+Amaro Asset Tracking System - Phase 1: Python Foundation
+
+This repository documents my technical journey as a 4th-semester IT student at Mercu Buana University, specifically preparing for a professional internship in Canada.
+
+🚀 Project Overview
+The goal of this phase is to master the core logic of asset management. As Amaro currently faces challenges with manual dispenser tracking, I am building a robust backend foundation using Python.
+
+🛠️ Features (Day 1: Basic Inventory Logic)
+- Input Validation: Ensures that items sold do not exceed the initial stock, preventing negative inventory values.
+- Automated Alerts: Triggers a 'CRITICAL' status warning when stock levels fall below 5 units.
+- Dynamic Formatting: Uses Python f-strings for clear and readable status reporting.
+
+💻 Technical Stack
+- Language: Python 3.x
+- Concepts Applied: Conditional logic (If-Else), Nested conditions, Data type casting.
+
+---
+Follow my journey as I build a smart, real-time asset tracking solution for the Canadian market.
